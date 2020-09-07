@@ -1,5 +1,7 @@
 {
   "name": "simpleIonicPushNotification",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690840317199",
+    "firebase_url": "https://simpleionicpushnotification.firebaseio.com",
+    "project_id": "simpleionicpushnotification",
+    "storage_bucket": "simpleionicpushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690840317199:android:8e5aee01d42b7758cc627a",
+        "android_client_info": {
+          "package_name": "id.danielniko.ionicpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690840317199-pqnjqneaupa6675qgauqe9dlb6o1sae4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7TetYtIZrfh6iNcCh1qsd0E6jkRNwd20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690840317199-pqnjqneaupa6675qgauqe9dlb6o1sae4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
